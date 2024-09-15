@@ -1,2 +1,9 @@
 # Music-Player
-A Music Player built with HTML, CSS, and JavaScript displays a song-related image and includes a play/pause button for easy control. It features a responsive design and offers additional controls in preview mode for a smooth, user-friendly experience.
+- The **Music Player** is built using HTML, CSS, and JavaScript.  
+- Displays an image related to the song for a visually appealing experience.  
+- Includes a dedicated play/pause button for controlling playback.  
+- Provides easy interaction to play, pause, or resume songs.  
+- Offers a smooth, user-friendly listening experience.  
+- Simple and intuitive interface for seamless music enjoyment.
+
+Live Preview: https://kimayaa1.github.io/Music-Player/
